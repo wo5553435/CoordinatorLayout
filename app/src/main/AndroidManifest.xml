@@ -9,15 +9,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DependentActivity">
+        <activity android:name="com.smile.TestActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".DependentActivity"/>
         <activity android:name=".MainActivity" />
         <activity android:name=".TabLayoutActivity" />
+        <activity android:name="com.smile.drag.DragActivity" />
+        <activity android:name=".CollapsingToolbarActivity" />
+        <activity android:name=".NestedActivity" />
     </application>
 
 </manifest>

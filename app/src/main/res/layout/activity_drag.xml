@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.smile.drag.PullUpDragLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:PullUpDrag_BottomView="@layout/layout_bottom"
+        app:PullUpDrag_ContentView="@layout/layout_content"
+        app:PullUpDrag_BottomBorderHeigth="80dp"
+        >
+
+
+    </com.smile.drag.PullUpDragLayout>
+</LinearLayout>

@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * author: smile .
+ * author: sinner .
  * date: On 2018/5/30
  */
 public class CollapsingToolbarActivity extends AppCompatActivity {

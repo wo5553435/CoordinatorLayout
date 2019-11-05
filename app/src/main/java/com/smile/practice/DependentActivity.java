@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 /**
- * author: smile .
+ * author: sinner .
  * date: On 2018/6/2
  */
 public class DependentActivity extends AppCompatActivity implements View.OnTouchListener {

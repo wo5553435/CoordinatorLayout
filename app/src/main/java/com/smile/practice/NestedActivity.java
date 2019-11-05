@@ -7,7 +7,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
 /**
- * author: smile .
+ * author: sinner .
  * date: On 2018/6/3
  */
 public class NestedActivity extends AppCompatActivity {
